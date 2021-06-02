@@ -1,1 +1,10 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+- If you're using WSL for Rails, you need to execute
+1) redis-server
+2) sidekiq
+
+- If you're using Ubuntu for Rails, you need to execute
+1) sidekiq
+
+- Depending on your Mac OS version, you might have to execute
+- redis-server
+- but sidekiq you'll always need to.
